@@ -16,9 +16,13 @@ public class Test {
         //     System.out.println(element);
         // }
 
-        int[] test = {1, 3, 6, 7, 12};
+        //int[] test = {1, 3, 6, 7, 12};
 
-        System.out.println(BinarySearch.search(test, 3));
-        
+        //System.out.println(BinarySearch.search(test, 3));
+
+
+        int[] test = {7,6,4,3,1,31};
+
+        System.out.println(BuySellStocks.maxProfit(test));
     }
 }
