@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class Test {
     public static void main(String[] args) {
 
@@ -21,8 +23,17 @@ public class Test {
         //System.out.println(BinarySearch.search(test, 3));
 
 
-        int[] test = {7,6,4,3,1,31};
+        //int[] test = {7,6,4,3,1,31};
 
-        System.out.println(BuySellStocks.maxProfit(test));
+        //System.out.println(BuySellStocks.maxProfit(test));
+
+        //String[] strs = {"am", "yarrak", "rayrak", "porno", "oprno"};
+        //String[] strs1 = {"3131", "1313"};
+        //String[] strs2 = {"a", "sex", "sex", "mex"};
+        //String[] strs3 = {""};
+
+        //List<List<String>> result = GroupAnagrams.groupAnagrams(strs3);
+
+        //System.out.println(result);
     }
 }
