@@ -33,5 +33,9 @@ public class Test {
         //List<List<String>> result = GroupAnagrams.groupAnagrams(strs3);
 
         //System.out.println(result);
+
+        String [] tokens = {"10","6","9","3","+","-11","*","/","*","17","+","5","+"};
+
+        System.out.println(EvalRPN.evalRPN(tokens));
     }
 }
